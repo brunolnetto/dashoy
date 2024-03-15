@@ -17,7 +17,7 @@ options = {
     'C': ['C1', 'C2', 'C3', 'C4']
 }
 
-app = setup_app(app, options)
+app = setup_app(app, 'Dashboard', options)
 
 # Set the callback functions
 @app.callback(

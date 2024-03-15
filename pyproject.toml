@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "soy-dash"
 version = "0.1.0"
-description = "A dash for display of soy along time\u001b[1;5"
+description = "A dash for display of soy along time"
 authors = ["Bruno Peixoto <brunolnetto@gmail.com>"]
 license = "MIT"
 readme = "README.md"

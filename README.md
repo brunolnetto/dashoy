@@ -1,4 +1,3 @@
-```
 # Dashboard
 
 This is a simple Dash web application that demonstrates a main page layout with a header, main content area, and footer. The main content area includes a plot and a dropdown menu.

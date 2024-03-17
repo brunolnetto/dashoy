@@ -1,6 +1,11 @@
 *.csv
 *.CSV
 *.xls
-
+*.shx
+*.cpg
+*.dbf
+*.prj
+*.shp
 
 .ipynb_checkpoints
+*/__pycache__

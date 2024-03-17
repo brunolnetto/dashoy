@@ -2,8 +2,6 @@ import dash
 import plotly.express as px
 from dash.dependencies import Input, Output
 
-import numpy as np
-
 from core.setup import setup_app 
 from callbacks.callbacks import update_dropdown_b_options, \
     update_plot 

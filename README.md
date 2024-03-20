@@ -23,40 +23,38 @@ dashoy
     └───tests
 ```
 
-# Como reproduzir
+## Como reproduzir
 
-## Pesquisa
+### Pesquisa
 
-    ### Pré-requisitos
+#### Pré-requisitos
 
-    As bibliotecas necessárias para pesquisa encontram-se no arquivo `pesquisa/requirements.txt`.  Para instalar, execute o comando abaixo:
+As bibliotecas necessárias para pesquisa encontram-se no arquivo `pesquisa/requirements.txt`.  Para instalar, execute o comando abaixo:
 
-    ```bash
-    pip install -r pesquisa/requirements.txt
-    ```
+```bash
+pip install -r pesquisa/requirements.txt
+```
 
-    ### Reprodução
+#### Reprodução
 
-    Para reproduzir a análise de dados, execute o arquivo `pesquisa/Análise climática - Soja.ipynb` em um ambiente Jupyter Notebook. As células de código estão organizadas de forma a reproduzir a análise de dados de forma sequencial. Desta forma, execute cada célula com comando `Shift + Enter` ou `Ctrl + Enter`.
+Para reproduzir a análise de dados, execute o arquivo `pesquisa/Análise climática - Soja.ipynb` em um ambiente Jupyter Notebook. As células de código estão organizadas de forma a reproduzir a análise de dados de forma sequencial. Desta forma, execute cada célula com comando `Shift + Enter` ou `Ctrl + Enter`.
 
-## Painel
+### Painel
 
-    ### Pré-requisitos
+#### Pré-requisitos
 
-    As bibliotecas necessárias para o painel encontram-se no arquivo `painel/requirements.txt`.  Para instalar, execute o comando abaixo:
+As bibliotecas necessárias para o painel encontram-se no arquivo `painel/requirements.txt`.  Para instalar, execute o comando abaixo:
 
-    ```bash
-    pip install -r painel/requirements.txt
-    ```
+```bash
+pip install -r painel/requirements.txt
+```
 
-    ### Reprodução
+#### Reprodução
 
-    Para reproduzir o painel, execute o comando abaixo. O painel estará disponível em `http://127.0.0.1:8050/`.
+Para reproduzir o painel, execute o comando abaixo. O painel estará disponível em `http://127.0.0.1:8050/`.
 
     ```bash
     python painel/src/app.py
     ```
     
     
-
-

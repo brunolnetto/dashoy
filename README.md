@@ -51,6 +51,12 @@ dashoy
 
     ### Reprodução
 
-    Para reproduzir o painel, execute o arquivo `painel/src/app.py` em um ambiente Python. O painel estará disponível em `http://127.0.0.1:8050/`
+    Para reproduzir o painel, execute o comando abaixo:
+
+    ```bash
+    python painel/src/app.py
+    ```
+    
+    O painel estará disponível em `http://127.0.0.1:8050/`
 
 

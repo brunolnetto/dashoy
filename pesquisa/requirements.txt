@@ -6,7 +6,7 @@ dash-html-components==2.0.0
 dash-mantine-components==0.12.1
 dash-table==5.0.0
 fiona==1.9.6
-Flask==3.0.2
+Flask==3.0.3
 geopandas==0.14.3
 numpy==1.26.4
 pandas==2.2.1
@@ -18,7 +18,7 @@ Shapely==2.0.3
 six==1.16.0
 tenacity==8.2.3
 tqdm==4.66.2
-typing_extensions==4.10.0
+typing_extensions==4.11.0
 urllib3==2.2.1
 zipp==3.18.1
 xlrd==2.0.1

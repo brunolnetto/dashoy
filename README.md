@@ -29,8 +29,6 @@ dashoy
 
 ## Como reproduzir
 
-#### Reprodução
-
 Para reproduzir o painel, execute o comando abaixo. O painel estará disponível em `http://127.0.0.1:8050/`. 
 
     ```bash

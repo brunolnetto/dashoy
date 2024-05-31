@@ -20,5 +20,5 @@ tenacity==8.3.0
 tqdm==4.66.4
 typing_extensions==4.12.0
 urllib3==2.2.1
-zipp==3.19.0
+zipp==3.19.1
 xlrd==2.0.1

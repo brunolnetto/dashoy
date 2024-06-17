@@ -18,7 +18,7 @@ Shapely==2.0.4
 six==1.16.0
 tenacity==8.4.0
 tqdm==4.66.4
-typing_extensions==4.12.1
+typing_extensions==4.12.2
 urllib3==2.2.1
 zipp==3.19.2
 xlrd==2.0.1

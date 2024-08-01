@@ -8,7 +8,7 @@ dash-table==5.0.0
 fiona==1.9.6
 Flask==3.0.3
 geopandas==1.0.1
-numpy==2.0.0
+numpy==2.0.1
 pandas==2.2.2
 plotly==5.22.0
 plotly-geo==1.0.0

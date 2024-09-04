@@ -6,7 +6,7 @@ dash-html-components==2.0.0
 dash-mantine-components==0.14.4
 dash-table==5.0.0
 geopandas==1.0.1
-numpy==2.1.0
+numpy==2.1.1
 fiona==1.10.0
 Flask==3.0.3
 pandas==2.2.2

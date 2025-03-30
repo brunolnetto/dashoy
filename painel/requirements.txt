@@ -10,7 +10,7 @@ numpy==2.2.4
 fiona==1.10.1
 Flask==3.1.0
 pandas==2.2.3
-plotly==6.0.0
+plotly==6.0.1
 plotly-geo==1.0.0
 toml==0.10.2
 zipp==3.21.0
